@@ -3,6 +3,8 @@
 - Code: http://github.com/brynary/rack-test
 - Build: http://runcoderun.com/brynary/rack-test
 
+- With support for Async callback work being doing for JRuby.
+
 == Description
 
 Rack::Test is a small, simple testing API for Rack apps. It can be used on its
